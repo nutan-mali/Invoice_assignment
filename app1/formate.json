@@ -1,0 +1,12 @@
+{
+    "date": "2023-02-03",
+    "cust_name": "Nutan",
+    "details": [
+        {
+            "description": "Product description",
+            "quantity": 15,
+            "unit_price": 110.99,
+            "price": 54.95
+        }
+    ]
+}
