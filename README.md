@@ -15,14 +15,23 @@ API Endpoints:
 
 GET /invoices/
 Retrieves a list of all invoices
+
+
 POST /invoices/
 Creates a new invoice
+
+
 GET /invoices/{invoice_id}/
 Retrieves details of a specific invoice
+
+
 PUT /invoices/{invoice_id}/
 Updates details of a specific invoice
+
+
 DELETE /invoices/{invoice_id}/
 Deletes a specific invoice
+
 Setup:
 
 Clone the repository:
