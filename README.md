@@ -39,25 +39,25 @@ Clone the repository:
 bash
 Copy code
 git clone <repository_url>
-Install dependencies:
 
+Install dependencies:
 Copy code
 pip install -r requirements.txt
-Run migrations:
 
+Run migrations:
 Copy code
 python manage.py migrate
-Start the development server:
 
+Start the development server:
 Copy code
 python manage.py runserver
-Testing:
 
-Run test cases:
-bash
+Testing:
+Run test cases: bash
+
 Copy code
-python manage.py test
-Endpoints Usage:
+python manage.py 
+test Endpoints Usage:
 
 Use your favorite API client (e.g., Postman) to interact with the API endpoints.
 Send requests to the specified endpoints with appropriate payloads to create, update, delete, and retrieve invoices.
